@@ -1,0 +1,9 @@
+[submodule "molinetes-backend"]
+	path = molinetes-backend
+	url = https://github.com/juanserna1711/molinetes-backend.git
+[submodule "molinetes-database"]
+	path = molinetes-database
+	url = https://github.com/juanserna1711/molinetes-database.git
+[submodule "molinetes-frontend"]
+	path = molinetes-frontend
+	url = https://github.com/juanserna1711/molinetes-frontend.git
